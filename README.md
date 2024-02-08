@@ -1,4 +1,4 @@
-# Best-Diabetes-Prediction-Model
+# Diabetes-Prediction-with-PyCaret
 <br>
 Diabetes Prediction with PyCaret<br>
 
